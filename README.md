@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
  demo 
- https://exchange25.netlify.app/
+https://pesosdolar.netlify.app/
